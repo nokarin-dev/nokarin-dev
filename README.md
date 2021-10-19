@@ -9,6 +9,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+- 🌀 I'm currently making a bot
 
 - 🔭 I’m currently working on [NekoIceTeam](https://github.com/NekoIceTeam), [EterNomm](https://github.com/EterNomm)
 
