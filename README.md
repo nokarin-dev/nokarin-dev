@@ -32,4 +32,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
+<h2> My Discord Servers! <src='https://discord.gg/498Axaz9VF'></h2>
+
 <img src="https://discordapp.com/api/guilds/897666245166518412/widget.png?style=banner3" alt="Discord Banner 3"/>
