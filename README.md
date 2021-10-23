@@ -34,6 +34,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-[Bot Discord Servers](https://discord.gg/498Axaz9VF)
+[Bot Discord Servers](https://discord.gg/anxV3rgcjj)
 
 <img src="https://discordapp.com/api/guilds/897666245166518412/widget.png?style=banner3" alt="Discord Banner 3"/>
