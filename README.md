@@ -25,7 +25,7 @@
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@NekoIceCream&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@BrokenEdtz&compact=True"/>
 </a>
 <br>
 
@@ -34,6 +34,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-![Bot Discord Servers](https://discord.gg/498Axaz9VF)
+[Bot Discord Servers](https://discord.gg/498Axaz9VF)
 
 <img src="https://discordapp.com/api/guilds/897666245166518412/widget.png?style=banner3" alt="Discord Banner 3"/>
