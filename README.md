@@ -39,6 +39,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-[Bot Discord Servers](https://discord.gg/anxV3rgcjj)
-
-<img src="https://discordapp.com/api/guilds/897666245166518412/widget.png?style=banner3" alt="Discord Banner 3"/>
+<div align="center">
+<a href="http://discordcyrabot.my.to">
+<img src="https://discordapp.com/api/guilds/984857299858382908/widget.png?style=banner3" alt="Discord CyraBot"/>
+</div>
