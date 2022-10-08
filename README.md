@@ -9,17 +9,20 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌀 I'm currently making a bot
+- 🌀 I'm founder of <a href="https://cyrabot.groups.id" target='_blank'><strong>CyraBot</strong></a>
 
-- 🔭 I’m currently working on [NekoIceTeam](https://github.com/NekoIceTeam), [EterNomm](https://github.com/EterNomm)
+- 🔭 I’m currently working on <strong><a href='https://github.com/CyraTeam' target='_blank'>CyraTeam</a>, <a href='https://github.com/NekoIceTeam' target='_blank'>NekoIceCream</a>, <a href='https://github.com/EterNomm' target='_blank'>EterNomm</a></strong>
 
-- 🌱 I’m currently learning Java, JavaScipt, Html
+- 🌱 I’m currently learning <strong>Java, JavaScipt, Html, Python, Bash, CSS, TypeScript</strong>
 
-<h2 align="left"> Language <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Quit75Gaming?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
-<a href= https://github.com/Quit75Gaming?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
-<a href= https://github.com/Quit75Gaming?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<h2 align="left"> Language im used <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href="" target='_blank'><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
+<a href="" target='_blank'><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'/></a>
+<a href="" target='_blank'><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></a>
+<a href="" target='_blank'><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
+<a href="" target='_blank'><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
+<a href="https://www.python.org" target='_blank'><img width='36px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></a>
+<a href="" target='_blank'><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'></a>
 
 <h2 align="left"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.github.com/Quit75Gaming'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
@@ -41,5 +44,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 <div align="center">
-<a href="https://discord.gg/YyzghaDU9C"><img width="40px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg">CyraBot</a>
+<h2>CyraBot Discord</h2>
+<a href="https://cyrabot.groups.id/discord/" target='_blank'><img width="40px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"></a>
 </div>
