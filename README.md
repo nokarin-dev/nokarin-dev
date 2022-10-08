@@ -2,7 +2,7 @@
 <p align='center'>
 
 </p>
-<div size='20px'> Hi! My name is Quit75Gaming. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is BrokenEdtz. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2 align="left"> About Me </h2>
@@ -27,14 +27,14 @@
 
 <h3 align="left">Stats:</h3>
 
-[![Profile views](https://komarev.com/ghpvc/?username=quit75gaming&label=Profile%20Views&color=00ff6e&style=flat)](https://github.com/Quit75Gaming)
+[![Profile views](https://komarev.com/ghpvc/?username=quit75gaming&label=Profile%20Views&color=00ff6e&style=flat)](https://github.com/brokenedtzjs)
 [![wakatime](https://wakatime.com/badge/user/48eebc5a-4806-4cf7-ba04-cdc9d5c29b8f.svg)](https://wakatime.com/@48eebc5a-4806-4cf7-ba04-cdc9d5c29b8f)
 
-[![Quit75Gaming stats](https://github-readme-stats.vercel.app/api?username=quit75gaming&include_all_commits=Tru&show_icons=True&theme=radical&locale=en)](https://github.com/Quit75Gaming)
+[![BrokenEdtz stats](https://github-readme-stats.vercel.app/api?username=brokenedtzjs&include_all_commits=Tru&show_icons=True&theme=radical&locale=en)](https://github.com/brokenedtzjs)
 
-[![Quit75Gaming top langs](https://github-readme-stats.vercel.app/api/top-langs?username=quit75gaming&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/Quit75Gaming)
+[![BrokenEdtz top langs](https://github-readme-stats.vercel.app/api/top-langs?username=brokenedtzjs&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/brokenedtzjs)
 
-[![Quit75Gaming streak stats](https://github-readme-streak-stats.herokuapp.com/?user=quit75gaming&theme=dark)](https://github.com/Quit75Gaming)
+[![BrokenEdtz streak stats](https://github-readme-streak-stats.herokuapp.com/?user=brokenedtzjs&theme=dark)](https://github.com/brokenedtzjs)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
