@@ -9,7 +9,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌀 I'm founder of <a href="https://cyrabot.groups.id" target='_blank'><strong>CyraBot</strong></a>
+- 🌀 I'm founder of <a href="https://cyrabot.groups.id" target='_blank'><strong>CyraBot</strong></a>, <a href="https://github.com/CyraTeam/discord-afk-js" target="_blank"><strong>discord-afk-js</strong></a>
 
 - 🔭 I’m currently working on <strong><a href='https://github.com/CyraTeam' target='_blank'>CyraTeam</a>, <a href='https://github.com/NekoIceTeam' target='_blank'>NekoIceCream</a>, <a href='https://github.com/EterNomm' target='_blank'>EterNomm</a></strong>
 
