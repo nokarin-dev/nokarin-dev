@@ -1,4 +1,4 @@
-<h1 align"center"> Welcome To My Profile <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 1px> </h1>
+<h1 align"center"> Hello There <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 1px> </h1>
 <p align='center'>
 
 </p>
@@ -9,20 +9,19 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌀 I'm founder of <a href="https://cyrabot.groups.id" target='_blank'><strong>CyraBot</strong></a>, <a href="https://github.com/CyraTeam/discord-afk-js" target="_blank"><strong>discord-afk-js</strong></a>
+- 🌀 I'm new developers, owner and founder of <a href="https://github.com/CyraTeam"><strong>CyraTeam</strong></a>
 
-- 🔭 I’m currently working on <strong><a href='https://github.com/CyraTeam' target='_blank'>CyraTeam</a>, <a href='https://github.com/NekoIceTeam' target='_blank'>NekoIceCream</a>, <a href='https://github.com/EterNomm' target='_blank'>EterNomm</a></strong>
+- 🔭 my current projects is <a href="https://www.cyrabot.my.id/"><strong>CyraBot</strong></a>, <a href="https://github.com/CyraTeam/discord-rpc"><strong>discord-rpc</strong></a>
 
-- 🌱 I’m currently learning <strong>Java, JavaScipt, Html, Python, Bash, CSS, TypeScript</strong>
-
-<h2 align="left"> Language im used <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2 align="left"> Language im currently learning <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="" target='_blank'><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
 <a href="" target='_blank'><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'/></a>
 <a href="" target='_blank'><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></a>
 <a href="" target='_blank'><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
 <a href="" target='_blank'><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
 <a href="https://www.python.org" target='_blank'><img width='36px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'></a>
-<a href="" target='_blank'><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'></a>
+<a href="" target='_blank'><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></a>
+<a href="" target='_blank'><img width='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'></a>
 
 <h2 align="left"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.github.com/Quit75Gaming'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
@@ -42,8 +41,3 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-<div align="center">
-<h2>CyraBot Discord</h2>
-<a href="https://cyrabot.groups.id/discord/" target='_blank'><img width="40px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"></a>
-</div>
