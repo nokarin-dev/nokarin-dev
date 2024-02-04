@@ -30,11 +30,15 @@
 <h2 align="left"> Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 
 <div align="center">
-  <a href='https://www.github.com/Quit75Gaming'><img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  <a href='https://www.github.com/brokenedtzjs'><img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   <a href='https://discord.gg/498Axaz9VF'><img width='40px' align='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'></a>
 </div>
 
 <h3 align="left">Stats:</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@brokenedtz&compact=True&theme=dark"/>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=quit75gaming&label=Profile%20Views&color=00ff6e&style=flat" alt="Profile views" />
