@@ -37,21 +37,17 @@
 <h3 align="left">Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@brokenedtz&compact=True&theme=dark"/>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=quit75gaming&label=Profile%20Views&color=00ff6e&style=flat" alt="Profile views" />
   <img src="https://wakatime.com/badge/user/48eebc5a-4806-4cf7-ba04-cdc9d5c29b8f.svg" alt="Wakatime" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brokenedtzjs&include_all_commits=Tru&show_icons=True&theme=radical&locale=en" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brokenedtzjs&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brokenedtzjs&theme=dark" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brokenedtzjs&theme=dark" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brokenedtzjs&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
 <h2> Some Programming Humor for You <img align="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="32px"></h2>
