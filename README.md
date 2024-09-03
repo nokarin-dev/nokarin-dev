@@ -9,8 +9,8 @@
 <div align="center">
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   <ul>
-    <li>🌀 I'm a new developer and the owner/founder of <a href="https://github.com/CyraTeam"><strong>CyraTeam</strong></a></li>
-    <li>🔭 My current projects include <a href="https://www.cyrabot.my.id/"><strong>CyraBot</strong></a> and <a href="https://github.com/CyraTeam/discord-rpc"><strong>discord-rpc</strong></a></li>
+    <li>🌀 Owner/Founder of <a href="https://github.com/SITCommunity"><strong>SIT Community</strong></a></li>
+    <li>🔭 My current main projects <a href="https://github.com/SITCommunity/NekoUI/"><strong>NekoUI</strong></a> and <a href="https://github.com/CyraTeam/discord-rpc"><strong>discord-rpc</strong></a></li>
   </ul>
 </div>
 
