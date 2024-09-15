@@ -35,7 +35,7 @@
   <p>
     <picture>
       <source
-        srcset='https://github-readme-stats.vercel.app/api?username=brokenedtzjs&show_icons=true&theme=transparent&hide_border=true'
+        srcset='https://github-readme-stats.vercel.app/api?username=brokenedtzjs&include_all_commits=true&show_icons=true&locale=en&theme=transparent&hide_border=true'
         media='(prefers-color-scheme: dark)'
       />
       <source
