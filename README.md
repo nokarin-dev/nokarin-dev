@@ -10,7 +10,7 @@
 
 <h3 align='center'>Tools & Languages I'm Currently Used</h3>
 <p align='center'>
-  <img src='https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,tailwindcss,github,git,nodejs,gradle,vscode,express,mysql,mongoose&perline=10'/>
+  <img src='https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,tailwindcss,github,git,nodejs,gradle,vscode,express,mysql,mongodb&perline=10'/>
 </p>
 
 ---
@@ -61,12 +61,26 @@
   </p>
 
   <p>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=brokenedtz&layout=compact&theme=transparent&hide_border=true' alt='brokenedtzjs' />
+    <picture>
+      <source
+        srcset='https://github-readme-stats.vercel.app/api/wakatime?username=brokenedtz&show_icons=true&layout=compact&theme=transparent&hide_border=true'
+        media='(prefers-color-scheme: dark)'
+      />
+      <source
+        srcset='https://github-readme-stats.vercel.app/api/wakatime?username=brokenedtz&show_icons=true'
+        media='(prefers-color-scheme: light), (prefers-color-scheme: no-preference)'
+      />
+      <img src='https://github-readme-stats.vercel.app/api/wakatime?username=brokenedtz&show_icons=true' />
+    </picture>
   </p>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=quit75gaming&label=Profile%20Views&color=00ff6e&style=flat" alt="Profile views" />
-    <img src="https://wakatime.com/badge/user/48eebc5a-4806-4cf7-ba04-cdc9d5c29b8f.svg" alt="Wakatime" />
+    <a href='https://github.com/brokenedtzjs'>
+      <img src='https://komarev.com/ghpvc/?username=quit75gaming&label=Profile%20Views&color=00ff6e&style=flat' alt='Profile views' />
+    </a>
+    <a href='https://wakatime.com/@brokenedtz'>
+      <img src='https://wakatime.com/badge/user/48eebc5a-4806-4cf7-ba04-cdc9d5c29b8f.svg' alt='Wakatime' />
+    </a>
   </p>
 </div>
 
