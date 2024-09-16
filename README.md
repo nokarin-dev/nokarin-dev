@@ -1,16 +1,22 @@
-![banner](./assets/banner.png)
+<picture>
+  <img src='./assets/banner.png' />
+</picture>
 
 ---
 <h3 align='center'>Languages I'm Currently Learning</h3>
 <p align='center'>
-  <img src='https://skillicons.dev/icons?i=java,cs,c,cpp,flutter'/>
+  <picture>
+    <img src='https://skillicons.dev/icons?i=java,cs,c,cpp,flutter'/>
+  </picture>
 </p>
 
 ---
 
 <h3 align='center'>Tools & Languages I'm Currently Used</h3>
 <p align='center'>
-  <img src='https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,tailwindcss,github,git,nodejs,gradle,vscode,express,mysql,mongodb,discordjs,figma,idea,npm&perline=10'/>
+  <picture>
+    <img src='https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,tailwindcss,github,git,nodejs,gradle,vscode,express,mysql,mongodb,discordjs,figma,idea,npm&perline=10'/>
+  </picture>
 </p>
 
 ---
@@ -88,7 +94,9 @@
 
 <h3 align='center'>Some Programming Humor for You</h3>
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=default" alt="Jokes" />
+  <picture>
+    <img src="https://readme-jokes.vercel.app/api?theme=default" />
+  </picture>
 </div>
 
 ---
