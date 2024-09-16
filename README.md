@@ -10,7 +10,7 @@
 
 <h3 align='center'>Tools & Languages I'm Currently Used</h3>
 <p align='center'>
-  <img src='https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,tailwindcss,github,git,nodejs,gradle,vscode,express,mysql,mongodb&perline=10'/>
+  <img src='https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,tailwindcss,github,git,nodejs,gradle,vscode,express,mysql,mongodb,discordjs,figma,idea,npm&perline=10'/>
 </p>
 
 ---
