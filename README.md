@@ -18,6 +18,11 @@
     <img src='https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,tailwindcss,github,git,nodejs,gradle,vscode,express,mysql,mongodb,discordjs,figma,idea,npm&perline=10'/>
   </picture>
 </p>
+<p align='center'>
+  <picture>
+    <img src='https://skillicons.dev/icons?i=ae,blender,ps,unreal,pr&perline=10'/>
+  </picture>
+</p>
 
 ---
 
