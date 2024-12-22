@@ -107,7 +107,7 @@
 ---
 
 <div align='center'>
-  <a href='https://discord.gg/498Axaz9VF'>
+  <a href='https://discord.cyrateam.xyz'>
     <img src='https://skillicons.dev/icons?i=discord' />
   </a>
   <a href='https://github.com/brokenedtzsjs'>
@@ -118,5 +118,7 @@
 ---
 
 <div align='center'>
-  <img src='https://raw.githubusercontent.com/brokenedtzjs/brokenedtzjs/output/snake.svg' />
+  <picture>
+    <img src='https://raw.githubusercontent.com/brokenedtzjs/brokenedtzjs/output/snake.svg' />
+  </picture>
 </div>
