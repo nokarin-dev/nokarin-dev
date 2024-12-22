@@ -114,3 +114,9 @@
     <img src='https://skillicons.dev/icons?i=github' />
   </a>
 </div>
+
+---
+
+<div align='center'>
+  <img src='https://raw.githubusercontent.com/brokenedtzjs/brokenedtzjs/output/snake.svg' />
+</div>
