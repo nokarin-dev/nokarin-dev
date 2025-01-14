@@ -3,10 +3,10 @@
 </picture>
 
 ---
-<h3 align='center'>Languages I'm Currently Learning</h3>
+<h3 align='center'>I'm Currently Learning</h3>
 <p align='center'>
   <picture>
-    <img src='https://skillicons.dev/icons?i=java,cs,c,cpp,flutter'/>
+    <img src='https://skillicons.dev/icons?i=cs,c,cpp,flutter,java,laravel,postgresql'/>
   </picture>
 </p>
 
@@ -15,7 +15,7 @@
 <h3 align='center'>Tools & Languages I'm Currently Used</h3>
 <p align='center'>
   <picture>
-    <img src='https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,tailwindcss,github,git,nodejs,gradle,vscode,express,mysql,mongodb,discordjs,figma,idea,npm&perline=10'/>
+    <img src='https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,tailwindcss,github,git,nodejs,gradle,vscode,express,mysql,postgresql,mongodb,laravel,discordjs,figma,idea,npm&perline=11'/>
   </picture>
 </p>
 <p align='center'>
