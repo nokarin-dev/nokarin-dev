@@ -32,42 +32,42 @@
   <p>
     <picture>
       <source
-        srcset='https://github-readme-stats.vercel.app/api/top-langs?username=brokenedtzjs&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true'
+        srcset='https://github-readme-stats.vercel.app/api/top-langs?username=nokarin-dev&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true'
         media='(prefers-color-scheme: dark)'
       />
       <source
-        srcset='https://github-readme-stats.vercel.app/api/top-langs?username=brokenedtzjs&show_icons=true'
+        srcset='https://github-readme-stats.vercel.app/api/top-langs?username=nokarin-dev&show_icons=true'
         media='(prefers-color-scheme: light), (prefers-color-scheme: no-preference)'
       />
-      <img src='https://github-readme-stats.vercel.app/api/top-langs?username=brokenedtzjs&show_icons=true' />
+      <img src='https://github-readme-stats.vercel.app/api/top-langs?username=nokarin-dev&show_icons=true' />
     </picture>
   </p>
 
   <p>
     <picture>
       <source
-        srcset='https://github-readme-stats.vercel.app/api?username=brokenedtzjs&include_all_commits=true&show_icons=true&locale=en&theme=transparent&hide_border=true'
+        srcset='https://github-readme-stats.vercel.app/api?username=nokarin-dev&include_all_commits=true&show_icons=true&locale=en&theme=transparent&hide_border=true'
         media='(prefers-color-scheme: dark)'
       />
       <source
-        srcset='https://github-readme-stats.vercel.app/api?username=brokenedtzjs&show_icons=true'
+        srcset='https://github-readme-stats.vercel.app/api?username=nokarin-dev&show_icons=true'
         media='(prefers-color-scheme: light), (prefers-color-scheme: no-preference)'
       />
-      <img src='https://github-readme-stats.vercel.app/api?username=brokenedtzjs&show_icons=true' />
+      <img src='https://github-readme-stats.vercel.app/api?username=nokarin-dev&show_icons=true' />
     </picture>
   </p>
 
   <p>
     <picture>
       <source
-        srcset='https://github-readme-streak-stats.herokuapp.com/?user=brokenedtzjs&show_icons=true&theme=transparent&locale=en&theme=transparent&hide_border=true'
+        srcset='https://github-readme-streak-stats.herokuapp.com/?user=nokarin-dev&show_icons=true&theme=transparent&locale=en&theme=transparent&hide_border=true'
         media='(prefers-color-scheme: dark)'
       />
       <source
-        srcset='https://github-readme-streak-stats.herokuapp.com/?user=brokenedtzjs&show_icons=true'
+        srcset='https://github-readme-streak-stats.herokuapp.com/?user=nokarin-dev&show_icons=true'
         media='(prefers-color-scheme: light), (prefers-color-scheme: no-preference)'
       />
-      <img src='https://github-readme-streak-stats.herokuapp.com/?user=brokenedtzjs&show_icons=true' />
+      <img src='https://github-readme-streak-stats.herokuapp.com/?user=nokarin-dev&show_icons=true' />
     </picture>
   </p>
 
@@ -86,7 +86,7 @@
   </p>
   
   <p>
-    <a href='https://github.com/brokenedtzjs'>
+    <a href='https://github.com/nokarin-dev'>
       <img src='https://komarev.com/ghpvc/?username=quit75gaming&label=Profile%20Views&color=00ff6e&style=flat' alt='Profile views' />
     </a>
     <a href='https://wakatime.com/@brokenedtz'>
@@ -107,10 +107,10 @@
 ---
 
 <div align='center'>
-  <a href='https://discord.cyrateam.xyz'>
+  <a href='https://discord.strivo.xyz'>
     <img src='https://skillicons.dev/icons?i=discord' />
   </a>
-  <a href='https://github.com/brokenedtzsjs'>
+  <a href='https://github.com/nokarin-dev'>
     <img src='https://skillicons.dev/icons?i=github' />
   </a>
 </div>
@@ -119,6 +119,6 @@
 
 <div align='center'>
   <picture>
-    <img src='https://raw.githubusercontent.com/brokenedtzjs/brokenedtzjs/output/snake.svg' />
+    <img src='https://raw.githubusercontent.com/nokarin-dev/nokarin-dev/output/snake.svg' />
   </picture>
 </div>
