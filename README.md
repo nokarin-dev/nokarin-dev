@@ -6,7 +6,7 @@
 <h3 align='center'>I'm Currently Learning</h3>
 <p align='center'>
   <picture>
-    <img src='https://skillicons.dev/icons?i=cs,c,cpp,flutter,java,laravel,postgresql'/>
+    <img src='https://skillicons.dev/icons?i=java,laravel,postgresql'/>
   </picture>
 </p>
 
