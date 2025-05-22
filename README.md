@@ -74,14 +74,14 @@
   <p>
     <picture>
       <source
-        srcset='https://github-readme-stats.vercel.app/api/wakatime?username=brokenedtz&show_icons=true&layout=compact&theme=transparent&hide_border=true'
+        srcset='https://github-readme-stats.vercel.app/api/wakatime?username=nokarin&show_icons=true&layout=compact&theme=transparent&hide_border=true'
         media='(prefers-color-scheme: dark)'
       />
       <source
-        srcset='https://github-readme-stats.vercel.app/api/wakatime?username=brokenedtz&show_icons=true'
+        srcset='https://github-readme-stats.vercel.app/api/wakatime?username=nokarin&show_icons=true'
         media='(prefers-color-scheme: light), (prefers-color-scheme: no-preference)'
       />
-      <img src='https://github-readme-stats.vercel.app/api/wakatime?username=brokenedtz&show_icons=true' />
+      <img src='https://github-readme-stats.vercel.app/api/wakatime?username=nokarin&show_icons=true' />
     </picture>
   </p>
   
