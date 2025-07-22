@@ -74,6 +74,38 @@
 ---
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 12.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 264 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 11 Private Repositories 
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/nokarin-dev/nokarin-dev/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/07/2025 15:34:58 UTC
 <!--END_SECTION:waka-->
 
 ---
