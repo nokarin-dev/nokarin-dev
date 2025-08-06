@@ -21,7 +21,7 @@
 ### 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,laravel,cpp,csharp" alt="Learning Icons" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=java,laravel,cpp,cs" alt="Learning Icons" draggable="false" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,tailwindcss,nodejs,express,mysql,mongodb,laravel,discordjs,figma" alt="Tech Stack Icons" draggable="false" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,idea,npm,gradle,ae,ps,blender,unreal,pr,cpp" alt="Other Tools Icons" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,idea,npm,gradle,ae,ps,blender,unreal,pr,cpp,cs" alt="Other Tools Icons" draggable="false" />
 </p>
 
 ---
