@@ -11,7 +11,6 @@
   <!-- Badges -->
   <img src="https://img.shields.io/github/followers/nokarin-dev?label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Commits%20This%20Year-✔️-brightgreen" alt="Commits This Year" />
-  <img src="https://komarev.com/ghpvc/?username=nokarin-dev&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/stars/nokarin-dev?label=Stars" alt="GitHub Stars" />
 
 </div>
@@ -94,3 +93,7 @@ No Activity Tracked This Week
 <p align="center">
   <img src="https://raw.githubusercontent.com/nokarin-dev/nokarin-dev/output/snake.svg" alt="Snake animation" draggable="false" />
 </p>
+
+---
+
+<img src="https://count.getloli.com/@nokarin-dev?name=nokarin-dev&theme=booru-yuyuyui&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" />
