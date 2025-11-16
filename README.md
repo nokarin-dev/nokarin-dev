@@ -101,4 +101,6 @@ Linux                    3 hrs 37 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 ---
 
-<img src="https://count.getloli.com/@nokarin-dev?name=nokarin-dev&theme=booru-yuyuyui&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" />
+<div align="center">
+  <img src="https://count.getloli.com/@nokarin-dev?name=nokarin-dev&theme=booru-yuyuyui&padding=7&offset=0&scale=0.6&pixelated=0&darkmode=auto" />
+</div>
