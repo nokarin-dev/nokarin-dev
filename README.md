@@ -39,9 +39,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nokarin-dev&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" draggable="false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokarin-dev&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" draggable="false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nokarin-dev&hide_border=true&theme=transparent" alt="GitHub Streak" draggable="false" />
+  <img src="./assets/stats/stats.svg" alt="GitHub Stats" draggable="false" />
+  <img src="./assets/stats/top-langs.svg" alt="Top Languages" draggable="false" />
+  <img src="https://streak.nokarin.my.id/?user=nokarin-dev&theme=transparent&hide_border=true" alt="GitHub Streak" draggable="false" />
 </div>
 
 ---
