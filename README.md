@@ -20,7 +20,7 @@
 ### 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,laravel,cpp,cs" alt="Learning Icons" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=java,cs" alt="Learning Icons" draggable="false" />
 </p>
 
 ---
