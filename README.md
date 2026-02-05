@@ -5,8 +5,9 @@
 <div align="center">
 
   <!-- Support -->
+  [![Trakteer](https://img.shields.io/badge/Trakteer-Support_Me-red?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://trakteer.id/nokarin)
   [![Trakteer](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nokarin)
-  [![Trakteer](https://img.shields.io/badge/Trakteer-Support%20Me-red?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://trakteer.id/nokarin)
+  [![Trakteer](https://img.shields.io/badge/Open_Collective-Support_Me-blue?style=for-the-badge&logo=opencollective&logoColor=white)](https://opencollective.com/nokarin)
   
   <!-- Badges -->
   <img src="https://img.shields.io/github/followers/nokarin-dev?label=Followers" alt="GitHub Followers" />
