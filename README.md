@@ -5,9 +5,11 @@
 <div align="center">
 
   <!-- Support -->
+  [![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=nokarin&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/nokarin)
+  
   [![Trakteer](https://img.shields.io/badge/Trakteer-Support_Me-red?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://trakteer.id/nokarin)
-  [![Trakteer](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nokarin)
-  [![Trakteer](https://img.shields.io/badge/Open_Collective-Support_Me-blue?style=for-the-badge&logo=opencollective&logoColor=white)](https://opencollective.com/nokarin)
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nokarin)
+  [![Open Collective](https://img.shields.io/badge/Open_Collective-Support_Me-blue?style=for-the-badge&logo=opencollective&logoColor=white)](https://opencollective.com/nokarin)
   
   <!-- Badges -->
   <img src="https://img.shields.io/github/followers/nokarin-dev?label=Followers" alt="GitHub Followers" />
