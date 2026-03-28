@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,tailwindcss,nodejs,express,mysql,mongodb,laravel,discordjs,figma" alt="Tech Stack Icons" draggable="false" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,idea,npm,gradle,ae,ps,blender,unreal,pr,cpp,cs" alt="Other Tools Icons" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,idea,npm,gradle,ae,ps,blender,unreal,pr,cpp,cs,dart,flutter" alt="Tech Stack Icons" draggable="false" />
 </p>
 
 ---
