@@ -55,7 +55,6 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C891%20hrs%2040%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
-
 ```text
 🌞 Morning                263 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.70 % 
 🌆 Daytime                480 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.96 % 
