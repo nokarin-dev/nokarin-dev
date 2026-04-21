@@ -23,7 +23,7 @@
 ### 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter" alt="Learning Icons" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,rust" alt="Learning Icons" draggable="false" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css,react,tailwindcss,express,mysql,mongodb,laravel,nodejs,discordjs,figma" alt="Tech Stack Icons" draggable="false" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,idea,npm,gradle,cpp,cs,dart,kotlin,flutter" alt="Tech Stack Icons" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,idea,npm,gradle,cpp,cs,dart,kotlin,flutter,rust" alt="Tech Stack Icons" draggable="false" />
 </p>
 
 ---
