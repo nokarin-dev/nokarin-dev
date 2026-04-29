@@ -92,14 +92,6 @@ Linux                    40 hrs 40 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 ---
 
-### 🎧 Now / Recently Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31j2y46lpoffglel3rrpccvecumq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=404db0&bar_color_cover=false" alt="Now Playing on Spotify" draggable="false" />
-</div>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/nokarin-dev/nokarin-dev/output/snake.svg" alt="Snake animation" draggable="false" />
 </p>
