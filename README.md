@@ -23,7 +23,7 @@
 ### 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,rust" alt="Learning Icons" draggable="false" />
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,rust" alt="Learning Icons" draggable="false" />
 </p>
 
 ---
