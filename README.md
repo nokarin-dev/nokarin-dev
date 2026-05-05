@@ -44,7 +44,7 @@
 <div align="center">
   <img src="./assets/stats/stats.svg" alt="GitHub Stats" draggable="false" />
   <img src="./assets/stats/top-langs.svg" alt="Top Languages" draggable="false" />
-  <img src="https://streak.nokarin.my.id/?user=nokarin-dev&theme=transparent&hide_border=true" alt="GitHub Streak" draggable="false" />
+  <img src="https://streak.nokarin.xyz/?user=nokarin-dev&theme=transparent&hide_border=true" alt="GitHub Streak" draggable="false" />
 </div>
 
 ---
