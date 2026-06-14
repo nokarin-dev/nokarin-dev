@@ -29,8 +29,8 @@ jobs:
 
       - name: Commit cards
         run: |
+          git config user.name "nokarin-dev"
+          git config user.email "github@nokarin.my.id"
           git add assets/stats/*.svg
           git commit -m "Update README cards" || exit 0
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
