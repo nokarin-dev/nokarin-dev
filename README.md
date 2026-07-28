@@ -91,29 +91,6 @@ HorizonUI                26 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Linux                    33 hrs 24 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 19 mins (0.96%)
-
-✍️ 0 lines written by AI, 4,834 lines written by hand (0.0% AI-written)
-
-🔤 6,065 Input Tokens, 1,244 Output Tokens
-
-💵 $0.04 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-Github-Copilot           0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 64 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:waka-->
 
 ---
